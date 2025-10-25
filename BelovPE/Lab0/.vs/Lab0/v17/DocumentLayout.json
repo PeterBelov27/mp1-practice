@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peter\\Desktop\\Belov P\\mp1-practice\\BelovPE\\Lab0_Peter_Belov\\Lab0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67C605F7-393F-4588-B689-7B6F4245529A}|Lab0\\Lab0.vcxproj|C:\\Users\\peter\\Desktop\\Belov P\\mp1-practice\\BelovPE\\Lab0_Peter_Belov\\Lab0\\Lab0\\Circles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67C605F7-393F-4588-B689-7B6F4245529A}|Lab0\\Lab0.vcxproj|solutionrelative:Lab0\\Circles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circles.c",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Belov P\\mp1-practice\\BelovPE\\Lab0_Peter_Belov\\Lab0\\Lab0\\Circles.c",
+              "RelativeDocumentMoniker": "Lab0\\Circles.c",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Belov P\\mp1-practice\\BelovPE\\Lab0_Peter_Belov\\Lab0\\Lab0\\Circles.c",
+              "RelativeToolTip": "Lab0\\Circles.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-25T04:38:38.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
